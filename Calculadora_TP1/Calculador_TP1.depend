@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1536206001 source:c:\users\rosiluna\downloads\calculador_tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"UTN_INPUT.h"
+
+1536206065 source:c:\users\rosiluna\downloads\calculador_tp1\utn_input.c
+
+1536203444 c:\users\rosiluna\downloads\calculador_tp1\utn_input.h
+
+1536237012 source:e:\calculador_tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"UTN_INPUT.h"
+
+1536236792 e:\calculador_tp1\utn_input.h
+
+1536236782 source:e:\calculador_tp1\utn_input.c
+
+1536262354 source:d:\calculador_tp1\utn_input.c
+
+1536262554 source:d:\calculador_tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"UTN_INPUT.h"
+
+1536236792 d:\calculador_tp1\utn_input.h
+
+1536262554 source:c:\users\rosiluna\desktop\calculadora_tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"UTN_INPUT.h"
+
+1536236792 c:\users\rosiluna\desktop\calculadora_tp1\utn_input.h
+
+1536264084 source:c:\users\rosiluna\desktop\calculadora_tp1\utn_input.c
+
